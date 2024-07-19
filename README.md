@@ -1,1 +1,1 @@
-# fuck-wechat
+# fuck-green-chat-app
